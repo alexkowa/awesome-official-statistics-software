@@ -384,8 +384,8 @@
     "description": "Extraction of Business Financial Information from [XBRL](https://www.xbrl.org/).",
     "gsbpm_name": "Data integration and record linkage",
     "gsbpm_number": "5.1",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -412,8 +412,8 @@
     "description": "[validate](https://CRAN.R-project.org/package=validate) on a SQL database, providing validation on bigger data.",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -440,8 +440,8 @@
     "description": "Error localisation based on Fellegi and Holt, supporting categorical and/or numeric data, linear equalities, inequalities and conditional rules and MIP-based error localization.",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -468,8 +468,8 @@
     "description": "Front-end to (combinations of) advanced imputation methods following the [tidy tools manifesto](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html). Supports regression (standard, M-estimation, ridge/lasso/elasticnet), hot-deck methods (powered by [VIM](https://CRAN.R-project.org/package=VIM)), randomForest, EM-based, and iterative randomForest imputation. Reuse of fitted models and definition of simple user-defined methods are supported as well.",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -482,8 +482,8 @@
     "description": "Detection of outliers and influential errors using a latent variable model for selective editing.",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -538,8 +538,8 @@
     "description": "Adapt Numerical Records to Fit (in)Equality Restrictions.",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -552,8 +552,8 @@
     "description": "Multiple imputation by chained equations, aka fully conditional specification, accompanied by [van Buuren (2018) _Flexible Imputation of Missing Data_](https://stefvanbuuren.name/fimd/).",
     "gsbpm_name": "Statistical data editing and imputation",
     "gsbpm_number": "5.3 | 5.4",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -566,8 +566,8 @@
     "description": "R package creating and working with survey replicate weights, extending functionality of the 'survey' package in R. Creates replicate weights using bootstrap, generalized bootstrap, generalized replication, and random-group jackknife methods. Facilitates sample-based calibration and nonresponse adjustment methods.",
     "gsbpm_name": "Estimation and Weighting",
     "gsbpm_number": "5.6",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 3)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -580,8 +580,8 @@
     "description": "Weighting and estimation for complex survey designs, possibly under nonresponse. Also computes estimator variance. See also R package [srvyr](https:://CRAN.R-project.org/package=survey) for integration with [tidy tools](https://cran.r-project.org/web/packages/tidyverse/vignettes/manifesto.html).",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-2 | GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -594,8 +594,8 @@
     "description": "Small area estimation based on hierarchical Bayesian models.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -622,8 +622,8 @@
     "description": "Small area estimation based on (robust) maximum likelihood estimation.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -664,8 +664,8 @@
     "description": "Calculating Bilateral and Multilateral Price Indexes.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -734,8 +734,8 @@
     "description": "Provides a toolkit for analytical variance estimation in survey sampling.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -748,8 +748,8 @@
     "description": "Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "EUPL",
-    "licenseSimple": "EUPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -762,8 +762,8 @@
     "description": "Calibration, bootstrap and error estimation for complex surveys.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "GPL (>= 2)",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -818,8 +818,8 @@
     "description": "Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "GPL-3",
-    "licenseSimple": "GPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -860,8 +860,8 @@
     "description": "R interface to JDemetra+.",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "EUPL",
-    "licenseSimple": "EUPL",
+    "license": "unknown",
+    "licenseSimple": "unknown",
     "platform": "CRAN",
     "languages": [
       "R"

@@ -636,8 +636,8 @@
     "description": "Calculate weighs and estimates for panel data with non-response.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-2",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -720,8 +720,8 @@
     "description": "Provides detailed tools for performing calibration and several of its varitations, in a familiar setting for Calmar users in SAS.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -734,8 +734,8 @@
     "description": "Provides a toolkit for analytical variance estimation in survey sampling.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -748,8 +748,8 @@
     "description": "Trends and Indices for Monitoring data. Provides tools for estimating animal/plant populations based on site counts, including occurrence of missing data.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -762,8 +762,8 @@
     "description": "Calibration, bootstrap and error estimation for complex surveys.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -776,8 +776,8 @@
     "description": "Calibration weighting with integer weights.",
     "gsbpm_name": "Estimation and weighting",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL (>= 2)",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -818,8 +818,8 @@
     "description": "Interface to the `X13-ARIMA-SEATS` program from R with a very nice shiny GUI.",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "GPL-3",
+    "licenseSimple": "GPL",
     "platform": "CRAN",
     "languages": [
       "R"
@@ -860,8 +860,8 @@
     "description": "R interface to JDemetra+.",
     "gsbpm_name": "Time series and seasonal adjustment",
     "gsbpm_number": "5.6 | 5.7",
-    "license": "unknown",
-    "licenseSimple": "unknown",
+    "license": "EUPL",
+    "licenseSimple": "EUPL",
     "platform": "CRAN",
     "languages": [
       "R"
